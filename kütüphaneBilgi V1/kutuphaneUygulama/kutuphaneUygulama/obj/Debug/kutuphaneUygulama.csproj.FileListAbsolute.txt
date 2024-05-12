@@ -1,0 +1,13 @@
+C:\Users\hikme\Desktop\kutuphaneUygulama\kutuphaneUygulama\bin\Debug\kutuphaneUygulama.exe.config
+C:\Users\hikme\Desktop\kutuphaneUygulama\kutuphaneUygulama\bin\Debug\kutuphaneUygulama.exe
+C:\Users\hikme\Desktop\kutuphaneUygulama\kutuphaneUygulama\bin\Debug\kutuphaneUygulama.pdb
+C:\Users\hikme\Desktop\kutuphaneUygulama\kutuphaneUygulama\obj\Debug\kutuphaneUygulama.csproj.AssemblyReference.cache
+C:\Users\hikme\Desktop\kutuphaneUygulama\kutuphaneUygulama\obj\Debug\kutuphaneUygulama.Properties.Resources.resources
+C:\Users\hikme\Desktop\kutuphaneUygulama\kutuphaneUygulama\obj\Debug\kutuphaneUygulama.csproj.GenerateResource.cache
+C:\Users\hikme\Desktop\kutuphaneUygulama\kutuphaneUygulama\obj\Debug\kutuphaneUygulama.csproj.CoreCompileInputs.cache
+C:\Users\hikme\Desktop\kutuphaneUygulama\kutuphaneUygulama\obj\Debug\kutuphaneUygulama.exe
+C:\Users\hikme\Desktop\kutuphaneUygulama\kutuphaneUygulama\obj\Debug\kutuphaneUygulama.pdb
+C:\Users\hikme\Desktop\kutuphaneUygulama\kutuphaneUygulama\obj\Debug\kutuphaneUygulama.anaMenu.resources
+C:\Users\hikme\Desktop\kutuphaneUygulama\kutuphaneUygulama\obj\Debug\kutuphaneUygulama.arsivListele.resources
+C:\Users\hikme\Desktop\kutuphaneUygulama\kutuphaneUygulama\obj\Debug\kutuphaneUygulama.kitapEkleme.resources
+C:\Users\hikme\Desktop\kutuphaneUygulama\kutuphaneUygulama\obj\Debug\kutuphaneUygulama.kitapBul.resources
