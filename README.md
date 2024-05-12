@@ -2,7 +2,7 @@
 Windows Form ve SQL ile çalışan kütüphane bilgi sistemi. 
 
 <h1>Proje İlerleyişi</h1>
-<p>Grup ödevi olarak başlayan proje ilk 3 versiyonunda grup ödevi kısmını tamamlamış durumda. Bu ilk 3 versiyondan sonra projenin gelişimi, belirlediğim kriterlere göre ilerleyecek.</p>
+<p>Grup ödevi olarak başlayan proje ilk 3 versiyonunda grup ödevi kısmını tamamlamış olup. Bu ilk 3 versiyondan sonra projenin gelişimi, tarafımca belirlediğim kriterlere göre ilerleyecek.</p>
 
 
 <h2>Proje versiyonları</h2>
