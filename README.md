@@ -9,5 +9,5 @@ Windows Form ve SQL ile çalışan kütüphane bilgi sistemi.
 V.1 => Temel yapıyı kurmayı hedefledik.<br>
 V.2 => Temel yapıda eksik bırakılan kısımlar düzeltilip küçük arayüz değişikliğine gidildi.<br>
 V.3 => İlk iki versiyonda yapılmayan kısımlar tamamlanıp grup ödevi kısmı bitirildi.<br>
-V.4 => Projeye class eklenerek tek bir sql bağlantısı üzerinden tüm işlemleri yapma yeteneği kazandırılacak.<br>
-V.5 => gelicek <br>
+V.4 => En yakın zamanda yeni güncelleme gelicek.<br>
+
